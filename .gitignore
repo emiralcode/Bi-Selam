@@ -1,0 +1,14 @@
+# Hassas dosyalar
+db.php
+
+# Kullanıcı yüklemeleri
+uploads/*
+!uploads/default.jpg
+!uploads/unknown.jpeg
+
+# Sistem dosyaları
+Thumbs.db
+.DS_Store
+
+# Loglar
+*.log
